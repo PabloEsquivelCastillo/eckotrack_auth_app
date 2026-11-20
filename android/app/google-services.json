@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435836556479",
+    "project_id": "ecotrack-utez-dmi-j",
+    "storage_bucket": "ecotrack-utez-dmi-j.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435836556479:android:d11bcdbac2a6320728220a",
+        "android_client_info": {
+          "package_name": "com.example.eckotrack_auth_prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIay2k4QdYSMNAsa9A-WwOOVyBcxDODo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
